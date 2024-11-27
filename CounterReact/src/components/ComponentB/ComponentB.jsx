@@ -1,4 +1,3 @@
-
 export default function ComponentB ({increaseCounter}) {
     return (
       <div>
